@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrashti-jain
 - 👀 I’m interested in coding,problem solving,teamwork
-- 🌱 I’m currently learning Full stack,DSA,Django,cloud computing.
+- 🌱 I’m currently working in Flipkart on technologies like Java, Dropwizard, and cloud computing.
 - 📫 How to reach me - jain.shrashti27@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love acting and making music videos
